@@ -1,2 +1,2 @@
 # Python-games
-Text games developed in python to exercise programming logic
+Some game-based software that I developed at UPE (Universidade de Pernambuco), to practice my programming logic
